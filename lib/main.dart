@@ -175,8 +175,8 @@ class ResponsiveHomePage extends StatelessWidget {
         SizedBox(height: 10),
         Text(
           "I'm Mahendra, nice to meet you! Recently I've been busy in college \n"
-          "but anyway you can find me with 42230061\n"
-          "Student's number in the Information Technology,Engineering Faculties",
+          "but anyway you can find me with 42230061 student's number \n"
+          "in the Information Technology,Engineering Faculties",
           style: GoogleFonts.poppins(
             color: Colors.white70,
             fontSize: subTitleSize,
